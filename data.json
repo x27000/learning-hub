@@ -1,8 +1,566 @@
 {
  "site_title": "我的学习中心",
  "canvas_url": "https://canvas.cityu.edu.hk",
- "username": "",
+ "username": "x27000",
  "tz_label": "UTC+8",
- "updated_at": null,
- "weeks": []
+ "updated_at": "2026-09-25 14:16",
+ "weeks": [
+  {
+   "date": "2026-09-25",
+   "generated_at": "2026-09-25 14:16",
+   "range": "2026-09-18 14:16 ~ 2026-09-25 14:16",
+   "courses": [
+    {
+     "name": "Anti-Deception Quiz 2026/27",
+     "code": "SD_ANTI_DECEPTION_2026-27_8",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/69932",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "BSc Cybersecurity Announcement",
+     "code": "SD_CS_ANNOUNCE_BSC_CYBE",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/67034",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CASH Online Training Module 2026/27",
+     "code": "SD_CASH_2026-27_8",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/69943",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS Announcements (TPg)",
+     "code": "SD_CS_ANNOUNCE_TPG",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/56911",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS5222 Computer Networks & Internets",
+     "code": "202609CS5222",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/70590",
+     "new_assignments": [
+      {
+       "name": "Assignment 1",
+       "kind": "提交作业",
+       "due_at": "2026-10-09 23:59",
+       "due_iso": "2026-10-09T15:59:59+00:00",
+       "points": 100.0,
+       "url": "https://canvas.cityu.edu.hk/courses/70590/assignments/335699",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16081433,
+       "name": "tutorial-3-solution_semA2026.pptx",
+       "kind": "PPT",
+       "created_at": "2026-09-24 09:21",
+       "updated_at": "2026-09-24 13:08",
+       "is_update": true,
+       "size_bytes": 287571,
+       "size_kb": 281,
+       "url": "https://canvas.cityu.edu.hk/courses/70590/files",
+       "saved": true
+      },
+      {
+       "id": 16081428,
+       "name": "Tutorial-4_semA2026.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-24 09:21",
+       "updated_at": "2026-09-24 17:53",
+       "is_update": true,
+       "size_bytes": 41213,
+       "size_kb": 40,
+       "url": "https://canvas.cityu.edu.hk/courses/70590/files",
+       "saved": true
+      },
+      {
+       "id": 16048948,
+       "name": "cs5222_cha2_2026_student.pptx",
+       "kind": "PPT",
+       "created_at": "2026-09-19 17:55",
+       "updated_at": "2026-09-19 23:51",
+       "is_update": true,
+       "size_bytes": 2127366,
+       "size_kb": 2078,
+       "url": "https://canvas.cityu.edu.hk/courses/70590/files",
+       "saved": true
+      },
+      {
+       "id": 16048947,
+       "name": "cs5222_cha2_2026_student_part3.pptx",
+       "kind": "PPT",
+       "created_at": "2026-09-19 17:55",
+       "updated_at": "2026-09-19 21:34",
+       "is_update": true,
+       "size_bytes": 1015332,
+       "size_kb": 992,
+       "url": "https://canvas.cityu.edu.hk/courses/70590/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS5285 Introduction to Cybersecurity",
+     "code": "202609CS5285",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/72493",
+     "new_assignments": [
+      {
+       "name": "Problem Set 1",
+       "kind": "提交作业",
+       "due_at": "2026-10-11 18:00",
+       "due_iso": "2026-10-11T10:00:00+00:00",
+       "points": 97.0,
+       "url": "https://canvas.cityu.edu.hk/courses/72493/assignments/328331",
+       "status": "有更新",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS5294 Info Security Technology Mgt",
+     "code": "202609CS5294",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/70598",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16087357,
+       "name": "CS5294-HK-Week-4.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-24 19:24",
+       "updated_at": "2026-09-24 19:39",
+       "is_update": false,
+       "size_bytes": 2621051,
+       "size_kb": 2560,
+       "url": "https://canvas.cityu.edu.hk/courses/70598/files",
+       "saved": true
+      },
+      {
+       "id": 16087333,
+       "name": "tut3_solution.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-24 19:20",
+       "updated_at": "2026-09-24 19:25",
+       "is_update": false,
+       "size_bytes": 120616,
+       "size_kb": 118,
+       "url": "https://canvas.cityu.edu.hk/courses/70598/files",
+       "saved": true
+      },
+      {
+       "id": 16087206,
+       "name": "tut2_solution.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-24 19:05",
+       "updated_at": "2026-09-24 19:06",
+       "is_update": false,
+       "size_bytes": 116283,
+       "size_kb": 114,
+       "url": "https://canvas.cityu.edu.hk/courses/70598/files",
+       "saved": true
+      },
+      {
+       "id": 16087205,
+       "name": "tut1.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-24 19:05",
+       "updated_at": "2026-09-24 19:06",
+       "is_update": false,
+       "size_bytes": 210580,
+       "size_kb": 206,
+       "url": "https://canvas.cityu.edu.hk/courses/70598/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS5295 Network and Cloud Security",
+     "code": "202609CS5295",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/70601",
+     "new_assignments": [
+      {
+       "name": "Assignment 1 – Detection & TCP Attacks",
+       "kind": "提交作业",
+       "due_at": "2026-10-12 23:59",
+       "due_iso": "2026-10-12T15:59:59+00:00",
+       "points": 10.0,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/assignments/335639",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16068252,
+       "name": "W3-Internet Layer Security.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-22 17:21",
+       "updated_at": "2026-09-24 22:32",
+       "is_update": true,
+       "size_bytes": 767119,
+       "size_kb": 749,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16062034,
+       "name": "Labsetup.zip",
+       "kind": "压缩包",
+       "created_at": "2026-09-21 20:11",
+       "updated_at": "2026-09-21 20:11",
+       "is_update": false,
+       "size_bytes": 4436,
+       "size_kb": 4,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16062033,
+       "name": "Labsetup-arm.zip",
+       "kind": "压缩包",
+       "created_at": "2026-09-21 20:11",
+       "updated_at": "2026-09-21 20:11",
+       "is_update": false,
+       "size_bytes": 3431,
+       "size_kb": 3,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16062032,
+       "name": "TCP_Attacks.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-21 20:11",
+       "updated_at": "2026-09-22 17:11",
+       "is_update": true,
+       "size_bytes": 332586,
+       "size_kb": 325,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16062031,
+       "name": "part2.pcap",
+       "kind": "其他",
+       "created_at": "2026-09-21 20:11",
+       "updated_at": "2026-09-21 20:11",
+       "is_update": false,
+       "size_bytes": 366772720,
+       "size_kb": 358176,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16061998,
+       "name": "part1.pcap",
+       "kind": "其他",
+       "created_at": "2026-09-21 20:06",
+       "updated_at": "2026-09-21 20:06",
+       "is_update": false,
+       "size_bytes": 15016980,
+       "size_kb": 14665,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16061997,
+       "name": "Assignment_1.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-21 20:06",
+       "updated_at": "2026-09-22 11:23",
+       "is_update": true,
+       "size_bytes": 343242,
+       "size_kb": 335,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059096,
+       "name": "node.py",
+       "kind": "代码",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-22 15:13",
+       "is_update": true,
+       "size_bytes": 7627,
+       "size_kb": 7,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059095,
+       "name": "common.py",
+       "kind": "代码",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-22 15:13",
+       "is_update": true,
+       "size_bytes": 2812,
+       "size_kb": 3,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059094,
+       "name": "__init__.py",
+       "kind": "代码",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-22 15:13",
+       "is_update": true,
+       "size_bytes": 65,
+       "size_kb": 0,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059093,
+       "name": "client.py",
+       "kind": "代码",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-22 15:13",
+       "is_update": true,
+       "size_bytes": 12114,
+       "size_kb": 12,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059092,
+       "name": "Week4_Tutorial_IP_Spoofing.ipynb",
+       "kind": "代码",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-21 15:01",
+       "is_update": false,
+       "size_bytes": 17454,
+       "size_kb": 17,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059091,
+       "name": "compose.yaml",
+       "kind": "其他",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-22 17:11",
+       "is_update": true,
+       "size_bytes": 969,
+       "size_kb": 1,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059090,
+       "name": ".dockerignore",
+       "kind": "其他",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-21 15:01",
+       "is_update": false,
+       "size_bytes": 14,
+       "size_kb": 0,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059089,
+       "name": "Dockerfile",
+       "kind": "其他",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-21 15:01",
+       "is_update": false,
+       "size_bytes": 184,
+       "size_kb": 0,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16059088,
+       "name": "requirements.txt",
+       "kind": "其他",
+       "created_at": "2026-09-21 15:01",
+       "updated_at": "2026-09-21 21:27",
+       "is_update": true,
+       "size_bytes": 83,
+       "size_kb": 0,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16052613,
+       "name": "W4-Internet Layer Security - preclass.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-20 17:12",
+       "updated_at": "2026-09-21 14:01",
+       "is_update": true,
+       "size_bytes": 1111581,
+       "size_kb": 1086,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      },
+      {
+       "id": 16052606,
+       "name": "W2-1-Transport-layer Security.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-20 17:11",
+       "updated_at": "2026-09-24 17:22",
+       "is_update": true,
+       "size_bytes": 801029,
+       "size_kb": 782,
+       "url": "https://canvas.cityu.edu.hk/courses/70601/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "CS5298 Blockchain and Web3.0 Security",
+     "code": "202609CS5298",
+     "term": "2026/27 Semester A",
+     "url": "https://canvas.cityu.edu.hk/courses/70604",
+     "new_assignments": [
+      {
+       "name": "Assignment 2",
+       "kind": "提交作业",
+       "due_at": "2026-10-08 12:59",
+       "due_iso": "2026-10-08T04:59:59+00:00",
+       "points": 100.0,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/assignments/335834",
+       "status": "新布置",
+       "submitted": false,
+       "graded": false,
+       "score": null
+      }
+     ],
+     "upcoming": [],
+     "new_files": [
+      {
+       "id": 16083644,
+       "name": "Tutorial4_Ans.md",
+       "kind": "其他",
+       "created_at": "2026-09-24 13:14",
+       "updated_at": "2026-09-24 17:30",
+       "is_update": true,
+       "size_bytes": 4113,
+       "size_kb": 4,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      },
+      {
+       "id": 16083312,
+       "name": "Week 4.pptx",
+       "kind": "PPT",
+       "created_at": "2026-09-24 12:35",
+       "updated_at": "2026-09-24 12:59",
+       "is_update": false,
+       "size_bytes": 3359444,
+       "size_kb": 3281,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      },
+      {
+       "id": 16079098,
+       "name": "Tutorial4.md",
+       "kind": "其他",
+       "created_at": "2026-09-23 22:11",
+       "updated_at": "2026-09-24 13:14",
+       "is_update": true,
+       "size_bytes": 5823,
+       "size_kb": 6,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      },
+      {
+       "id": 16079097,
+       "name": "Tutorial4.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-23 22:11",
+       "updated_at": "2026-09-24 13:15",
+       "is_update": true,
+       "size_bytes": 81208,
+       "size_kb": 79,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      },
+      {
+       "id": 16068457,
+       "name": "CS5298_Assignment2.pdf",
+       "kind": "PDF",
+       "created_at": "2026-09-22 17:43",
+       "updated_at": "2026-09-22 20:26",
+       "is_update": true,
+       "size_bytes": 1008097,
+       "size_kb": 984,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      },
+      {
+       "id": 16067460,
+       "name": "Tutorial4.pptx",
+       "kind": "PPT",
+       "created_at": "2026-09-22 16:00",
+       "updated_at": "2026-09-22 16:01",
+       "is_update": false,
+       "size_bytes": 1068520,
+       "size_kb": 1043,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/files",
+       "saved": true
+      }
+     ],
+     "announcements": [],
+     "changes": []
+    },
+    {
+     "name": "Safety Training for MSc Students (CS)",
+     "code": "SD_GEN_SFTY_CS_MCS_2026",
+     "term": "Organizations",
+     "url": "https://canvas.cityu.edu.hk/courses/72495",
+     "new_assignments": [],
+     "upcoming": [],
+     "new_files": [],
+     "announcements": [],
+     "changes": []
+    }
+   ]
+  }
+ ]
 }
