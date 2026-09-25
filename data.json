@@ -3,12 +3,12 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "x27000",
  "tz_label": "UTC+8",
- "updated_at": "2026-09-25 14:17",
+ "updated_at": "2026-09-25 19:00",
  "weeks": [
   {
    "date": "2026-09-25",
-   "generated_at": "2026-09-25 14:17",
-   "range": "2026-09-18 14:17 ~ 2026-09-25 14:17",
+   "generated_at": "2026-09-25 19:00",
+   "range": "2026-09-18 19:00 ~ 2026-09-25 19:00",
    "courses": [
     {
      "name": "Anti-Deception Quiz 2026/27",
@@ -458,6 +458,18 @@
      "term": "2026/27 Semester A",
      "url": "https://canvas.cityu.edu.hk/courses/70604",
      "new_assignments": [
+      {
+       "name": "Assignment 1",
+       "kind": "提交作业",
+       "due_at": "2026-09-24 12:59",
+       "due_iso": "2026-09-24T04:59:59+00:00",
+       "points": 100.0,
+       "url": "https://canvas.cityu.edu.hk/courses/70604/assignments/333370",
+       "status": "有更新",
+       "submitted": true,
+       "graded": false,
+       "score": null
+      },
       {
        "name": "Assignment 2",
        "kind": "提交作业",
