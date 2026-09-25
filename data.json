@@ -3,12 +3,12 @@
  "canvas_url": "https://canvas.cityu.edu.hk",
  "username": "x27000",
  "tz_label": "UTC+8",
- "updated_at": "2026-09-25 14:16",
+ "updated_at": "2026-09-25 14:17",
  "weeks": [
   {
    "date": "2026-09-25",
-   "generated_at": "2026-09-25 14:16",
-   "range": "2026-09-18 14:16 ~ 2026-09-25 14:16",
+   "generated_at": "2026-09-25 14:17",
+   "range": "2026-09-18 14:17 ~ 2026-09-25 14:17",
    "courses": [
     {
      "name": "Anti-Deception Quiz 2026/27",
